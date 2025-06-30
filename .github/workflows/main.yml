@@ -1,4 +1,4 @@
-name: Java Hello
+name: Java hello
 
 on:
   push:
